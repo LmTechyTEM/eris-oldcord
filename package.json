@@ -1,6 +1,6 @@
 {
-  "name": "eris-hummus",
-  "version": "0.0.5",
+  "name": "eris-oldcord",
+  "version": "0.0.1",
   "description": "A NodeJS Hummus library, fork of discords Eris package.",
   "main": "./index.js",
   "exports": {
@@ -32,14 +32,14 @@
     "api",
     "discord",
     "discordapp",
-    "hummus",
+    "oldcord",
     "eris",
     "wrapper"
   ],
-  "author": "nilenta",
+  "author": "lmtechytem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nilenta/eris-hummus/issues"
+    "url": "https://github.com/lmtechytem/eris-oldcord/issues"
   },
   "homepage": "https://abal.moe/Eris/",
   "dependencies": {
